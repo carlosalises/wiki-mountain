@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Arco';
+    src: url('./fonts/ARCO.ttf')
+  }
+
+:root {
+  --maxWidth : 700px;
+  --b-background : #04DCDF;
+  --font : 'Arco'
+}
+
+body{
+    background-color: #f8fafc;
+}
